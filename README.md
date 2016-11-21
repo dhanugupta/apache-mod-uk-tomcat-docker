@@ -1,4 +1,4 @@
-# apache-mod-uk-tomcat-docker
+# apache-mod-jk-tomcat-docker
 Dockerize Apache mod_jk with Tomcat
 
 ## dependencies
